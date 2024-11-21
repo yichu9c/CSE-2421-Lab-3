@@ -1,0 +1,14 @@
+BY SUBMITTING THIS ASSIGNMENT TO CARMEN I CERTIFY THAT I HAVE STRICTLY ADHERED TO THE
+TENURES OF THE OHIO STATE UNIVERSITY'S ACADEMIC INTEGRITY POLICY WITH RESPECT TO THIS
+ASSIGNEMNT
+
+1. YIHONE CHU
+
+2.It look me a lot of time and effort, I would say about 30 hours and I did not get it
+done. 
+
+3. I really struggled with segmentation faults and still do not understand fully.
+
+4. I tried to use gdb to find out what was wrong with the segmentation faults. I saw
+that the memory addresses were not correct when trying to access the memory that I wanted to access.
+I used things such as disp /x print/x to see the memory address.:
